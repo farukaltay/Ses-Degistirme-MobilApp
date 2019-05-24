@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_document_box"
+            android:title="Ses Dosyaları" />
+        <item
+            android:id="@+id/nav_ses_degistir"
+            android:icon="@drawable/ic_launcher"
+            android:title="Ses Değiştir" />
+
+        <item
+            android:id="@+id/nav_ses_kayit"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Ses Kayıt" />
+        <item
+            android:id="@+id/nav_tts"
+            android:icon="@drawable/ic_word_box"
+            android:title="TTS" />
+        <item
+            android:id="@+id/nav_efekt"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Efekt"/>
+        <item
+            android:id="@+id/nav_video_ses_yakalama"
+            android:icon="@drawable/ic_video_box"
+            android:title="Video'dan Ses Yakala"/>
+
+    </group>
+
+    <item android:title="İletişim">
+        <menu>
+
+            <item
+                android:id="@+id/nav_hakkinda"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Hakkında" />
+        </menu>
+    </item>
+
+</menu>

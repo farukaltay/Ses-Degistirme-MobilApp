@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Voice Changer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Voice Changer</string>
+    <string name="nav_header_subtitle">voicechanger@voicechanger.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="burp">Burp</string>
+    <string name="air_horn">Korna</string>
+    <string name="chipmunk">Cik</string>
+    <string name="fart">Fart</string>
+    <string name="sting">Sting</string>
+    <string name="pew_pew">Piv Piv</string>
+    <string name="snoring">Horlama</string>
+    <string name="growl">Homurtu</string>
+    <string name="startRecord">Kaydı Başlat</string>
+    <string name="stopRecord">Kaydı Durdur</string>
+    <string name="play">Oynat</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

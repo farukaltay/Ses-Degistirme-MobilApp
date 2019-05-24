@@ -1,5 +1,5 @@
 # Ses-Degistirme-MobilApp
-Faruk ALTAY 11.11.2018---
+
 Ses değiştirme uygulaması
 
 Bu uygulama ile :
